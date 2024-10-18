@@ -34,3 +34,15 @@ Para executar este projeto, você precisa ter o seguinte instalado:
    cd seurepositorio
 
  
+Exemplos de Uso
+Após executar o programa, você pode:
+
+Adicionar livros e usuários ao sistema.
+Emprestar livros disponíveis.
+Devolver livros emprestados.
+Verificar a lista de livros disponíveis e seus status.
+Contribuição
+Sinta-se à vontade para fazer um fork deste repositório e enviar pull requests com melhorias ou correções!
+
+Licença
+Este projeto está licenciado sob a MIT License.
