@@ -1,0 +1,15 @@
+C:\Users\pichau\Documents\LabProg\BibliotecaOOP\BibliotecaOOP\obj\Debug\net8.0\BibliotecaOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pichau\Documents\LabProg\BibliotecaOOP\BibliotecaOOP\obj\Debug\net8.0\BibliotecaOOP.AssemblyInfoInputs.cache
+C:\Users\pichau\Documents\LabProg\BibliotecaOOP\BibliotecaOOP\obj\Debug\net8.0\BibliotecaOOP.AssemblyInfo.cs
+C:\Users\pichau\Documents\LabProg\BibliotecaOOP\BibliotecaOOP\obj\Debug\net8.0\BibliotecaOOP.csproj.CoreCompileInputs.cache
+C:\Users\pichau\Documents\LabProg\BibliotecaOOP\BibliotecaOOP\obj\Debug\net8.0\BibliotecaOOP.sourcelink.json
+C:\Users\pichau\Documents\LabProg\BibliotecaOOP\BibliotecaOOP\bin\Debug\net8.0\BibliotecaOOP.exe
+C:\Users\pichau\Documents\LabProg\BibliotecaOOP\BibliotecaOOP\bin\Debug\net8.0\BibliotecaOOP.deps.json
+C:\Users\pichau\Documents\LabProg\BibliotecaOOP\BibliotecaOOP\bin\Debug\net8.0\BibliotecaOOP.runtimeconfig.json
+C:\Users\pichau\Documents\LabProg\BibliotecaOOP\BibliotecaOOP\bin\Debug\net8.0\BibliotecaOOP.dll
+C:\Users\pichau\Documents\LabProg\BibliotecaOOP\BibliotecaOOP\bin\Debug\net8.0\BibliotecaOOP.pdb
+C:\Users\pichau\Documents\LabProg\BibliotecaOOP\BibliotecaOOP\obj\Debug\net8.0\BibliotecaOOP.dll
+C:\Users\pichau\Documents\LabProg\BibliotecaOOP\BibliotecaOOP\obj\Debug\net8.0\refint\BibliotecaOOP.dll
+C:\Users\pichau\Documents\LabProg\BibliotecaOOP\BibliotecaOOP\obj\Debug\net8.0\BibliotecaOOP.pdb
+C:\Users\pichau\Documents\LabProg\BibliotecaOOP\BibliotecaOOP\obj\Debug\net8.0\BibliotecaOOP.genruntimeconfig.cache
+C:\Users\pichau\Documents\LabProg\BibliotecaOOP\BibliotecaOOP\obj\Debug\net8.0\ref\BibliotecaOOP.dll
