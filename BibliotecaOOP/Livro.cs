@@ -1,7 +1,7 @@
 public class Livro : ItemBiblioteca, IEmprestavel, IPesquisavel
 {
-    public string isbn;
-    public string genero;
+    public string Isbn { get; private set; }
+    public string Genero { get; private set; }
     private int quantidadeEstoque;
     private bool emprestado;
 
@@ -14,8 +14,8 @@ public class Livro : ItemBiblioteca, IEmprestavel, IPesquisavel
     public Livro(string titulo, string autor, string isbn, string genero, int quantidadeEstoque) 
         : base(titulo, autor)
     {
-        this.isbn = isbn;
-        this.genero = genero;
+        this.Isbn = isbn;
+        this.Genero = genero;
         this.quantidadeEstoque = quantidadeEstoque;
         this.emprestado = false;
     }
@@ -23,8 +23,8 @@ public class Livro : ItemBiblioteca, IEmprestavel, IPesquisavel
     public override void ExibirInformacoes()
     {
         base.ExibirInformacoes(); 
-        Console.WriteLine("ISBN: " + isbn);
-        Console.WriteLine("Gênero: " + genero);
+        Console.WriteLine("ISBN: " + Isbn);
+        Console.WriteLine("Gênero: " + Genero);
         Console.WriteLine("Quantidade em estoque: " + quantidadeEstoque);
         Console.WriteLine("Status do empréstimo: " + (emprestado ? "Emprestado" : "Disponível"));
     }
