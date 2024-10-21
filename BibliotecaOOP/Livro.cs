@@ -1,7 +1,7 @@
 public class Livro : ItemBiblioteca, IEmprestavel, IPesquisavel
 {
-    private string isbn;
-    private string genero;
+    public string isbn;
+    public string genero;
     private int quantidadeEstoque;
     private bool emprestado;
 

@@ -40,5 +40,19 @@
                 Console.WriteLine($"{livro.Titulo} foi devolvido por {usuario.Nome}.");
             }
         }
+
+        public void MostrarLivrosDisponiveis()
+        {
+            Console.WriteLine("Livros disponíveis para empréstimo:");
+            Console.WriteLine("-----------------------------------");
+            foreach (var livro in Livros)
+            {
+                if (livro.QuantidadeEmEstoque>0)
+                {
+                    Console.WriteLine($"Título: {livro.Titulo}");
+                    Console.WriteLine
+                }
+            }
+        }
     }
 

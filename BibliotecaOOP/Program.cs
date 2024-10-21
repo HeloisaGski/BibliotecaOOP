@@ -36,30 +36,30 @@
             biblioteca.AdicionarUsuario(usuario8);
 
 
-            biblioteca.EmprestarLivro(livro4, usuario1);
-            biblioteca.EmprestarLivro(livro4, usuario2);
-            biblioteca.EmprestarLivro(livro4, usuario3);
-            biblioteca.DevolverLivro(livro4, usuario1);
-            biblioteca.EmprestarLivro(livro4, usuario2);
-
-
-
             //biblioteca.EmprestarLivro(livro4, usuario1);
-            //biblioteca.EmprestarLivro(livro1, usuario2);
-            //biblioteca.EmprestarLivro(livro3, usuario3);
-            //biblioteca.EmprestarLivro(livro2, usuario4);
-            //biblioteca.EmprestarLivro(livro6, usuario5);
-            //biblioteca.EmprestarLivro(livro6, usuario6);
-            //biblioteca.EmprestarLivro(livro7, usuario7);
-            //biblioteca.EmprestarLivro(livro5, usuario8);
-           //biblioteca.DevolverLivro(livro4, usuario1);
-           //biblioteca.DevolverLivro(livro1, usuario2);
-           //biblioteca.DevolverLivro(livro3, usuario3);
-           //biblioteca.DevolverLivro(livro2, usuario4);
-           //biblioteca.DevolverLivro(livro6, usuario5);
-           //biblioteca.DevolverLivro(livro6, usuario6); 
-           //biblioteca.DevolverLivro(livro7, usuario7); 
-           //biblioteca.DevolverLivro(livro5, usuario8); 
+            //biblioteca.EmprestarLivro(livro4, usuario2);
+            //biblioteca.EmprestarLivro(livro4, usuario3);
+            //biblioteca.DevolverLivro(livro4, usuario1);
+            //biblioteca.EmprestarLivro(livro4, usuario2);
+
+
+
+            biblioteca.EmprestarLivro(livro4, usuario1);
+            biblioteca.EmprestarLivro(livro1, usuario2);
+            biblioteca.EmprestarLivro(livro3, usuario3);
+            biblioteca.EmprestarLivro(livro2, usuario4);
+            biblioteca.EmprestarLivro(livro6, usuario5);
+            biblioteca.EmprestarLivro(livro6, usuario6);
+            biblioteca.EmprestarLivro(livro7, usuario7);
+            biblioteca.EmprestarLivro(livro5, usuario8);
+           biblioteca.DevolverLivro(livro4, usuario1);
+           biblioteca.DevolverLivro(livro1, usuario2);
+           biblioteca.DevolverLivro(livro3, usuario3);
+           biblioteca.DevolverLivro(livro2, usuario4);
+           biblioteca.DevolverLivro(livro6, usuario5);
+           biblioteca.DevolverLivro(livro6, usuario6); 
+           biblioteca.DevolverLivro(livro7, usuario7); 
+           biblioteca.DevolverLivro(livro5, usuario8); 
            
 
 
