@@ -78,5 +78,3 @@ Contribuições são bem-vindas! Se você encontrar um bug ou desejar adicionar 
 ## Licença
 Este projeto é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
 
----
-Espero que este README facilite o entendimento e uso do programa! Se precisar de mais informações, fique à vontade para entrar em contato.
